@@ -30,9 +30,11 @@ Describe how to install or set up the project.
 
 ## Screenshots
 
-![Featured Content](/path/to/featured_content_image.png)
-![Movie List](/path/to/movie_list_image.png)
-<!-- Add more screenshots as needed -->
+![Featured Content](1.png)
+![Movie List](2.png)
+![Movie List](3.png)
+![Movie List](4.png)
+
 
 ## Contributing
 
